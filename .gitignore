@@ -91,3 +91,9 @@ ENV/
 #intellij
 .idea/
 Deep-Learning.iml
+
+#data files
+.pickle
+.tar.gz
+notMNIST_large/
+notMNIST_small/
