@@ -93,7 +93,7 @@ ENV/
 Deep-Learning.iml
 
 #data files
-notMINIST/.pickle
-notMINIST/.tar.gz
+*.pickle
+*.tar.gz
 notMNIST_large/
 notMNIST_small/
